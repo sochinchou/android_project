@@ -13,7 +13,15 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-
+/**
+ * 
+ * @author Administrator
+ *
+ *
+ *	testgit testgit testgit testgit testgit testgit testgit testgit testgit 
+ *	testgit testgit testgit testgit testgit testgit testgit testgit testgit 
+ *	testgit testgit testgit testgit testgit testgit testgit testgit testgit 
+ */
 
 public class MyAct1 extends Activity implements OnClickListener{
 
