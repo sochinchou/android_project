@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/LinearVMM"
+    android:background="#f0f"
+    android:gravity="center"
+    >
+
+	<Button
+	    android:id="@+id/btn1"
+	    style="@style/Button1"
+	    android:layout_width="300dp"
+	    android:onClick="onBtn1"
+	    />
+	
+	<Button
+	    android:id="@+id/btn2"
+	    style="@style/Button1"
+	    android:layout_width="300dp"
+	    android:onClick="onBtn2"
+	    />
+
+</LinearLayout>
